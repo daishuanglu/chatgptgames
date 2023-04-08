@@ -8,8 +8,9 @@ bytes_data.py
 fighters.py
 ```
 Game 2 (WIP) horizontal fighters:
+```
 horizontal.py
-
+```
 ## How to play:
 
 Compile the main python file with pyinstaller. For example for game 1 run
