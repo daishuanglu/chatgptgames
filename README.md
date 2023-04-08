@@ -11,10 +11,13 @@ fighters.py
 ```
 <img width="587" alt="game1" src="https://user-images.githubusercontent.com/17599970/230744782-177e6ef1-3a23-4eee-b9bd-2cc9ea42a595.png">
 
-Game 2 (WIP) horizontal fighters:
+Game 2 (WIP, I haven't finished this game) horizontal fighters:
 ```
 horizontal.py
 ```
+
+<img width="575" alt="image" src="https://user-images.githubusercontent.com/17599970/230744914-e6457e08-45fe-4c5f-94f2-6ed1ba040a1f.png">
+
 ## How to play:
 
 I didn't uploaded the compiled executable because they are too big and won't work on all the OS.
@@ -29,5 +32,6 @@ from your terminal/ CMD.
 Play the executable from ./dist directory.
 
 Enjoy,
+
 Shuanglu
 
