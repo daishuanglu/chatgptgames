@@ -9,8 +9,7 @@ Game 1 fighter jet:
 bytes_data.py
 fighters.py
 ```
-
-
+<img width="587" alt="game1" src="https://user-images.githubusercontent.com/17599970/230744782-177e6ef1-3a23-4eee-b9bd-2cc9ea42a595.png">
 
 Game 2 (WIP) horizontal fighters:
 ```
