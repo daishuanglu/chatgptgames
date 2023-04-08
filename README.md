@@ -17,13 +17,17 @@ horizontal.py
 ```
 ## How to play:
 
-Compile the main python file with pyinstaller. For example for game 1 run
+I didn't uploaded the compiled executable because they are too big and won't work on all the OS.
+
+Try compiling the source main python file with pyinstaller yourself so that it works for any OS. For example for game 1 run
 ```
 pip install pyinstaller
 pyinstaller fighters.py --onefile --noconsole
 ```
 from your terminal/ CMD.
 
-Find the executable from ./dist directory.
+Play the executable from ./dist directory.
 
-I didn't uploaded the compiled executable because they are too big.
+Enjoy,
+Shuanglu
+
