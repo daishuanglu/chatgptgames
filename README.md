@@ -3,10 +3,10 @@
 All games need the resources from "bytes_data.py". This code base is just used for personal use for fun games not for commercial use. 80% of the code is provided by ChatGPT so there is no gaurantee that the code in this repo is working with no bugs. 
 
 Game 1 fighter jet: 
-
+```
 bytes_data.py
 fighters.py
-
+```
 Game 2 (WIP) horizontal fighters:
 horizontal.py
 
