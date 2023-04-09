@@ -89,6 +89,7 @@ clock = pygame.time.Clock()
 game_over = False
 while True:
     # handle events
+    pygame.event.pump()
     if not enemy_list:
         refresh_enemy()
 
@@ -194,8 +195,11 @@ while True:
             pygame.draw.rect(screen, ORANGE, bullet)
         for bullet in enemy_bullets:
             pygame.draw.rect(screen, RED, bullet)
-        draw_text(screen, f"Score: {score}", RED, 10, 10)
-        draw_text(screen, "Z: shoot, SHIFT: reduce speed, Q: quit", WHITE, SCREEN_WIDTH/2 - 20, 10)
+        draw_text(screen, f"Score: {score}", RED, 10, 30)
+        draw_text(
+            screen,
+            "Z: shoot, SHIFT: reduce speed, Q: quit. Press SHIFT first if other keys not work.",
+            WHITE, 20, 10)
     pygame.display.update()
 
     clock.tick(60)
